@@ -1,0 +1,13 @@
+
+map_tree 7.png
+size: 258,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tree 7
+  rotate: false
+  xy: 2, 2
+  size: 254, 263
+  orig: 254, 263
+  offset: 0, 0
+  index: -1

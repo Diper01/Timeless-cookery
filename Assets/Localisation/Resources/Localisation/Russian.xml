@@ -1,0 +1,14 @@
+<document>
+    <string name="Loading...">Загрузка...</string>
+    <string name="Touch To Play ...">Нажмите, чтобы играть ...</string>
+    <string name="Upgrade">Улучшить</string>
+    <string name="the number of stars you">количество звезд, которое вы</string>
+    <string name="currently have">сейчас имеете</string>
+    <string name="select worlds">выбрать миры</string>
+    <string name="you need">тебе нужно</string>
+    <string name="stars to unlock this map">звезды для разблокировки этой карты</string>
+    <string name="Achievement">Достижение</string>
+    <string name="Gold Collector">Коллекционер золота</string>
+    <string name="Collect">Собери</string>
+
+</document>

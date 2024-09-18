@@ -1,0 +1,2611 @@
+{
+    "LevelDataSets": [
+        {
+            "levelID": 1,
+            "starSet": 0,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 30,
+            "customerSpawnTime": 4,
+            "customerLimit": 15,
+            "customerCondition": 15,
+            "secondTarget": "Dish",
+            "coinCondition": 200,
+            "dishCondition": 3,
+            "customerGoodCondition": 10,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 100
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 1,
+            "oneOrderRate": 100,
+            "twoOrderRate": 0,
+            "threeOrderRate": 0,
+            "mainRate": 50
+        },
+        {
+            "levelID": 1,
+            "starSet": 1,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 45,
+            "customerSpawnTime": 4,
+            "customerLimit": 0,
+            "customerCondition": 0,
+            "secondTarget": "Dish",
+            "coinCondition": 10,
+            "dishCondition": 6,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 100
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 1,
+            "oneOrderRate": 100,
+            "twoOrderRate": 0,
+            "threeOrderRate": 0,
+            "mainRate": 50
+        },
+        {
+            "levelID": 1,
+            "starSet": 2,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 45,
+            "customerSpawnTime": 4,
+            "customerLimit": 0,
+            "customerCondition": 0,
+            "secondTarget": "Dish",
+            "coinCondition": 13,
+            "dishCondition": 8,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 100
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 1,
+            "oneOrderRate": 100,
+            "twoOrderRate": 0,
+            "threeOrderRate": 0,
+            "mainRate": 50
+        },
+        {
+            "levelID": 2,
+            "starSet": 0,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 4,
+            "customerLimit": 11,
+            "customerCondition": 0,
+            "secondTarget": "Like",
+            "coinCondition": 0,
+            "dishCondition": 10,
+            "customerGoodCondition": 9,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 100
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "2",
+                    "rate": 0
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "3",
+                    "rate": 0
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "4",
+                    "rate": 0
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 60,
+            "twoOrderRate": 40,
+            "threeOrderRate": 0,
+            "mainRate": 55
+        },
+        {
+            "levelID": 2,
+            "starSet": 1,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 4,
+            "customerLimit": 10,
+            "customerCondition": 0,
+            "secondTarget": "Like",
+            "coinCondition": 0,
+            "dishCondition": 10,
+            "customerGoodCondition": 9,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 100
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 60,
+            "twoOrderRate": 40,
+            "threeOrderRate": 0,
+            "mainRate": 50
+        },
+        {
+            "levelID": 2,
+            "starSet": 2,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 3,
+            "customerLimit": 10,
+            "customerCondition": 0,
+            "secondTarget": "Like",
+            "coinCondition": 0,
+            "dishCondition": 10,
+            "customerGoodCondition": 10,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 5,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 100
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 50,
+            "twoOrderRate": 50,
+            "threeOrderRate": 0,
+            "mainRate": 55
+        },
+        {
+            "levelID": 3,
+            "starSet": 0,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 45,
+            "customerSpawnTime": 4,
+            "customerLimit": 0,
+            "customerCondition": 0,
+            "secondTarget": "Coin",
+            "coinCondition": 20,
+            "dishCondition": 20,
+            "customerGoodCondition": 30,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 100
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 55,
+            "twoOrderRate": 45,
+            "threeOrderRate": 0,
+            "mainRate": 55
+        },
+        {
+            "levelID": 3,
+            "starSet": 1,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 45,
+            "customerSpawnTime": 4,
+            "customerLimit": 0,
+            "customerCondition": 0,
+            "secondTarget": "Coin",
+            "coinCondition": 20,
+            "dishCondition": 10,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 100
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 55,
+            "twoOrderRate": 45,
+            "threeOrderRate": 0,
+            "mainRate": 55
+        },
+        {
+            "levelID": 3,
+            "starSet": 2,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 45,
+            "customerSpawnTime": 3,
+            "customerLimit": 0,
+            "customerCondition": 0,
+            "secondTarget": "Coin",
+            "coinCondition": 27,
+            "dishCondition": 10,
+            "customerGoodCondition": 10,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 100
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 40,
+            "twoOrderRate": 60,
+            "threeOrderRate": 0,
+            "mainRate": 55
+        },
+        {
+            "levelID": 4,
+            "starSet": 0,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 45,
+            "customerSpawnTime": 4,
+            "customerLimit": 12,
+            "customerCondition": 0,
+            "secondTarget": "Coin",
+            "coinCondition": 20,
+            "dishCondition": 0,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 100
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 50,
+            "twoOrderRate": 50,
+            "threeOrderRate": 0,
+            "mainRate": 55
+        },
+        {
+            "levelID": 4,
+            "starSet": 1,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 45,
+            "customerSpawnTime": 4,
+            "customerLimit": 12,
+            "customerCondition": 0,
+            "secondTarget": "Coin",
+            "coinCondition": 25,
+            "dishCondition": 0,
+            "customerGoodCondition": 10,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 100
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 40,
+            "twoOrderRate": 60,
+            "threeOrderRate": 0,
+            "mainRate": 60
+        },
+        {
+            "levelID": 4,
+            "starSet": 2,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 45,
+            "customerSpawnTime": 4,
+            "customerLimit": 12,
+            "customerCondition": 0,
+            "secondTarget": "Coin",
+            "coinCondition": 30,
+            "dishCondition": 0,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 100
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 30,
+            "twoOrderRate": 70,
+            "threeOrderRate": 0,
+            "mainRate": 40
+        },
+        {
+            "levelID": 5,
+            "starSet": 0,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 45,
+            "customerSpawnTime": 4,
+            "customerLimit": 0,
+            "customerCondition": 0,
+            "secondTarget": "Dish",
+            "coinCondition": 0,
+            "dishCondition": 8,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 60
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 40
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 50,
+            "twoOrderRate": 50,
+            "threeOrderRate": 0,
+            "mainRate": 55
+        },
+        {
+            "levelID": 5,
+            "starSet": 1,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 45,
+            "customerSpawnTime": 4,
+            "customerLimit": 0,
+            "customerCondition": 0,
+            "secondTarget": "Dish",
+            "coinCondition": 0,
+            "dishCondition": 10,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 50
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 50
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 40,
+            "twoOrderRate": 60,
+            "threeOrderRate": 0,
+            "mainRate": 60
+        },
+        {
+            "levelID": 5,
+            "starSet": 2,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 45,
+            "customerSpawnTime": 3,
+            "customerLimit": 0,
+            "customerCondition": 0,
+            "secondTarget": "Dish",
+            "coinCondition": 0,
+            "dishCondition": 10,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 40
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 60
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 40,
+            "twoOrderRate": 60,
+            "threeOrderRate": 0,
+            "mainRate": 60
+        },
+        {
+            "levelID": 6,
+            "starSet": 0,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 4,
+            "customerLimit": 10,
+            "customerCondition": 0,
+            "secondTarget": "Like",
+            "coinCondition": 0,
+            "dishCondition": 0,
+            "customerGoodCondition": 8,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 40
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 60
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "3",
+                    "rate": 0
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "4",
+                    "rate": 0
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 40,
+            "twoOrderRate": 60,
+            "threeOrderRate": 0,
+            "mainRate": 50
+        },
+        {
+            "levelID": 6,
+            "starSet": 1,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 4,
+            "customerLimit": 10,
+            "customerCondition": 0,
+            "secondTarget": "Like",
+            "coinCondition": 0,
+            "dishCondition": 0,
+            "customerGoodCondition": 9,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 35
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 65
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 45,
+            "twoOrderRate": 55,
+            "threeOrderRate": 0,
+            "mainRate": 55
+        },
+        {
+            "levelID": 6,
+            "starSet": 2,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 3,
+            "customerLimit": 12,
+            "customerCondition": 0,
+            "secondTarget": "Like",
+            "coinCondition": 0,
+            "dishCondition": 0,
+            "customerGoodCondition": 12,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 10,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 30
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 70
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 30,
+            "twoOrderRate": 70,
+            "threeOrderRate": 0,
+            "mainRate": 60
+        },
+        {
+            "levelID": 7,
+            "starSet": 0,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 4,
+            "customerLimit": 10,
+            "customerCondition": 0,
+            "secondTarget": "Like",
+            "coinCondition": 0,
+            "dishCondition": 5,
+            "customerGoodCondition": 8,
+            "lostCutomerMission": true,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 30
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 70
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 40,
+            "twoOrderRate": 60,
+            "threeOrderRate": 0,
+            "mainRate": 55
+        },
+        {
+            "levelID": 7,
+            "starSet": 1,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 4,
+            "customerLimit": 10,
+            "customerCondition": 0,
+            "secondTarget": "Like",
+            "coinCondition": 0,
+            "dishCondition": 9,
+            "customerGoodCondition": 10,
+            "lostCutomerMission": true,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 30
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 70
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 35,
+            "twoOrderRate": 65,
+            "threeOrderRate": 0,
+            "mainRate": 50
+        },
+        {
+            "levelID": 7,
+            "starSet": 2,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 3,
+            "customerLimit": 12,
+            "customerCondition": 0,
+            "secondTarget": "Like",
+            "coinCondition": 0,
+            "dishCondition": 7,
+            "customerGoodCondition": 12,
+            "lostCutomerMission": true,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 50
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 50
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 30,
+            "twoOrderRate": 70,
+            "threeOrderRate": 0,
+            "mainRate": 60
+        },
+        {
+            "levelID": 8,
+            "starSet": 0,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 45,
+            "customerSpawnTime": 4,
+            "customerLimit": 12,
+            "customerCondition": 0,
+            "secondTarget": "Dish",
+            "coinCondition": 0,
+            "dishCondition": 9,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 30
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 70
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 50,
+            "twoOrderRate": 50,
+            "threeOrderRate": 0,
+            "mainRate": 60
+        },
+        {
+            "levelID": 8,
+            "starSet": 1,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 45,
+            "customerSpawnTime": 4,
+            "customerLimit": 12,
+            "customerCondition": 0,
+            "secondTarget": "Dish",
+            "coinCondition": 0,
+            "dishCondition": 12,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 40
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 60
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 50,
+            "twoOrderRate": 50,
+            "threeOrderRate": 0,
+            "mainRate": 65
+        },
+        {
+            "levelID": 8,
+            "starSet": 2,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 50,
+            "customerSpawnTime": 4,
+            "customerLimit": 12,
+            "customerCondition": 0,
+            "secondTarget": "Dish",
+            "coinCondition": 0,
+            "dishCondition": 15,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": true,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 40
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 60
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 30,
+            "twoOrderRate": 70,
+            "threeOrderRate": 0,
+            "mainRate": 65
+        },
+        {
+            "levelID": 9,
+            "starSet": 0,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 45,
+            "customerSpawnTime": 4,
+            "customerLimit": 10,
+            "customerCondition": 0,
+            "secondTarget": "Coin",
+            "coinCondition": 25,
+            "dishCondition": 0,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 30
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "13",
+                    "rate": 30
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 30,
+            "twoOrderRate": 70,
+            "threeOrderRate": 0,
+            "mainRate": 70
+        },
+        {
+            "levelID": 9,
+            "starSet": 1,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 45,
+            "customerSpawnTime": 3,
+            "customerLimit": 45,
+            "customerCondition": 0,
+            "secondTarget": "Coin",
+            "coinCondition": 35,
+            "dishCondition": 0,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 40
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "13",
+                    "rate": 40
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 20,
+            "twoOrderRate": 80,
+            "threeOrderRate": 0,
+            "mainRate": 60
+        },
+        {
+            "levelID": 9,
+            "starSet": 2,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 50,
+            "customerSpawnTime": 3,
+            "customerLimit": 10,
+            "customerCondition": 0,
+            "secondTarget": "Coin",
+            "coinCondition": 50,
+            "dishCondition": 0,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 30
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 40
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "13",
+                    "rate": 30
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 20,
+            "twoOrderRate": 80,
+            "threeOrderRate": 0,
+            "mainRate": 50
+        },
+        {
+            "levelID": 10,
+            "starSet": 0,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 4,
+            "customerLimit": 12,
+            "customerCondition": 0,
+            "secondTarget": "Coin",
+            "coinCondition": 35,
+            "dishCondition": 0,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": true,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 35
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "13",
+                    "rate": 35
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 50,
+            "twoOrderRate": 50,
+            "threeOrderRate": 0,
+            "mainRate": 60
+        },
+        {
+            "levelID": 10,
+            "starSet": 1,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 4,
+            "customerLimit": 12,
+            "customerCondition": 0,
+            "secondTarget": "Coin",
+            "coinCondition": 40,
+            "dishCondition": 0,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": true,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 30
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 40
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "13",
+                    "rate": 30
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 35,
+            "twoOrderRate": 35,
+            "threeOrderRate": 0,
+            "mainRate": 65
+        },
+        {
+            "levelID": 10,
+            "starSet": 2,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 3,
+            "customerLimit": 14,
+            "customerCondition": 0,
+            "secondTarget": "Coin",
+            "coinCondition": 55,
+            "dishCondition": 0,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": true,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 60
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "13",
+                    "rate": 20
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 40,
+            "twoOrderRate": 60,
+            "threeOrderRate": 0,
+            "mainRate": 90
+        },
+        {
+            "levelID": 11,
+            "starSet": 0,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 50,
+            "customerSpawnTime": 4,
+            "customerLimit": 0,
+            "customerCondition": 0,
+            "secondTarget": "Dish",
+            "coinCondition": 0,
+            "dishCondition": 12,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 60
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "13",
+                    "rate": 20
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 30,
+            "twoOrderRate": 70,
+            "threeOrderRate": 0,
+            "mainRate": 50
+        },
+        {
+            "levelID": 11,
+            "starSet": 1,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 50,
+            "customerSpawnTime": 3,
+            "customerLimit": 0,
+            "customerCondition": 0,
+            "secondTarget": "Dish",
+            "coinCondition": 0,
+            "dishCondition": 14,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 80
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "13",
+                    "rate": 10
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 40,
+            "twoOrderRate": 60,
+            "threeOrderRate": 0,
+            "mainRate": 60
+        },
+        {
+            "levelID": 11,
+            "starSet": 2,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 55,
+            "customerSpawnTime": 3,
+            "customerLimit": 0,
+            "customerCondition": 0,
+            "secondTarget": "Dish",
+            "coinCondition": 0,
+            "dishCondition": 18,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": true,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 80
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "13",
+                    "rate": 10
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 50,
+            "twoOrderRate": 50,
+            "threeOrderRate": 0,
+            "mainRate": 65
+        },
+        {
+            "levelID": 12,
+            "starSet": 0,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 3,
+            "customerLimit": 12,
+            "customerCondition": 0,
+            "secondTarget": "Dish",
+            "coinCondition": 0,
+            "dishCondition": 24,
+            "customerGoodCondition": 6,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": true,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 50
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "13",
+                    "rate": 30
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 3,
+            "oneOrderRate": 20,
+            "twoOrderRate": 50,
+            "threeOrderRate": 30,
+            "mainRate": 50
+        },
+        {
+            "levelID": 12,
+            "starSet": 1,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 3,
+            "customerLimit": 14,
+            "customerCondition": 0,
+            "secondTarget": "Dish",
+            "coinCondition": 0,
+            "dishCondition": 20,
+            "customerGoodCondition": 5,
+            "lostCutomerMission": true,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 60
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "13",
+                    "rate": 40
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 50,
+            "twoOrderRate": 50,
+            "threeOrderRate": 0,
+            "mainRate": 55
+        },
+        {
+            "levelID": 12,
+            "starSet": 2,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 3,
+            "customerLimit": 14,
+            "customerCondition": 0,
+            "secondTarget": "Dish",
+            "coinCondition": 0,
+            "dishCondition": 22,
+            "customerGoodCondition": 5,
+            "lostCutomerMission": true,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 40
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "13",
+                    "rate": 40
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 50,
+            "twoOrderRate": 50,
+            "threeOrderRate": 0,
+            "mainRate": 60
+        },
+        {
+            "levelID": 13,
+            "starSet": 0,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 4,
+            "customerLimit": 12,
+            "customerCondition": 0,
+            "secondTarget": "Like",
+            "coinCondition": 0,
+            "dishCondition": 0,
+            "customerGoodCondition": 12,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "13",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "124",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "1234",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "134",
+                    "rate": 20
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 40,
+            "twoOrderRate": 60,
+            "threeOrderRate": 0,
+            "mainRate": 60
+        },
+        {
+            "levelID": 13,
+            "starSet": 1,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 3,
+            "customerLimit": 14,
+            "customerCondition": 0,
+            "secondTarget": "Like",
+            "coinCondition": 0,
+            "dishCondition": 0,
+            "customerGoodCondition": 13,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "13",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "124",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "14",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "1234",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "134",
+                    "rate": 20
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 50,
+            "twoOrderRate": 50,
+            "threeOrderRate": 0,
+            "mainRate": 80
+        },
+        {
+            "levelID": 13,
+            "starSet": 2,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 3,
+            "customerLimit": 14,
+            "customerCondition": 0,
+            "secondTarget": "Like",
+            "coinCondition": 0,
+            "dishCondition": 0,
+            "customerGoodCondition": 14,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": true,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "134",
+                    "rate": 30
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "1234",
+                    "rate": 30
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 30
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 10
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 20,
+            "twoOrderRate": 80,
+            "threeOrderRate": 0,
+            "mainRate": 80
+        },
+        {
+            "levelID": 14,
+            "starSet": 0,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 50,
+            "customerSpawnTime": 4,
+            "customerLimit": 14,
+            "customerCondition": 0,
+            "secondTarget": "Coin",
+            "coinCondition": 40,
+            "dishCondition": 20,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": true,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 15
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "13",
+                    "rate": 15
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "124",
+                    "rate": 15
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "14",
+                    "rate": 15
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "1234",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "134",
+                    "rate": 15
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 40,
+            "twoOrderRate": 60,
+            "threeOrderRate": 0,
+            "mainRate": 60
+        },
+        {
+            "levelID": 14,
+            "starSet": 1,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 50,
+            "customerSpawnTime": 4,
+            "customerLimit": 14,
+            "customerCondition": 0,
+            "secondTarget": "Coin",
+            "coinCondition": 45,
+            "dishCondition": 20,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": true,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 15
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "13",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "124",
+                    "rate": 15
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "14",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "1234",
+                    "rate": 25
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "134",
+                    "rate": 15
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 35,
+            "twoOrderRate": 65,
+            "threeOrderRate": 0,
+            "mainRate": 60
+        },
+        {
+            "levelID": 14,
+            "starSet": 2,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 55,
+            "customerSpawnTime": 3,
+            "customerLimit": 14,
+            "customerCondition": 0,
+            "secondTarget": "Coin",
+            "coinCondition": 40,
+            "dishCondition": 20,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": true,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": true,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 25
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "124",
+                    "rate": 25
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "1234",
+                    "rate": 25
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "134",
+                    "rate": 25
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 50,
+            "twoOrderRate": 50,
+            "threeOrderRate": 0,
+            "mainRate": 65
+        },
+        {
+            "levelID": 15,
+            "starSet": 0,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 4,
+            "customerLimit": 12,
+            "customerCondition": 0,
+            "secondTarget": "Like",
+            "coinCondition": 0,
+            "dishCondition": 0,
+            "customerGoodCondition": 11,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": true,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "124",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "14",
+                    "rate": 30
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "1234",
+                    "rate": 30
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "134",
+                    "rate": 20
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 30,
+            "twoOrderRate": 70,
+            "threeOrderRate": 0,
+            "mainRate": 50
+        },
+        {
+            "levelID": 15,
+            "starSet": 1,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 3,
+            "customerLimit": 12,
+            "customerCondition": 0,
+            "secondTarget": "Like",
+            "coinCondition": 0,
+            "dishCondition": 0,
+            "customerGoodCondition": 11,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": true,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 25
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "124",
+                    "rate": 25
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "14",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "1234",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "134",
+                    "rate": 30
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 20,
+            "twoOrderRate": 80,
+            "threeOrderRate": 0,
+            "mainRate": 65
+        },
+        {
+            "levelID": 15,
+            "starSet": 2,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 3,
+            "customerLimit": 15,
+            "customerCondition": 0,
+            "secondTarget": "Like",
+            "coinCondition": 0,
+            "dishCondition": 0,
+            "customerGoodCondition": 15,
+            "lostCutomerMission": false,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": true,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "13",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "134",
+                    "rate": 20
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "1234",
+                    "rate": 30
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 0,
+            "twoOrderRate": 100,
+            "threeOrderRate": 0,
+            "mainRate": 70
+        },
+        {
+            "levelID": 16,
+            "starSet": 0,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 55,
+            "customerSpawnTime": 4,
+            "customerLimit": 0,
+            "customerCondition": 0,
+            "secondTarget": "Dish",
+            "coinCondition": 0,
+            "dishCondition": 20,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": true,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "124",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "1234",
+                    "rate": 40
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "14",
+                    "rate": 20
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 20,
+            "twoOrderRate": 80,
+            "threeOrderRate": 0,
+            "mainRate": 60
+        },
+        {
+            "levelID": 16,
+            "starSet": 1,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 55,
+            "customerSpawnTime": 4,
+            "customerLimit": 0,
+            "customerCondition": 0,
+            "secondTarget": "Dish",
+            "coinCondition": 0,
+            "dishCondition": 20,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": true,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1234",
+                    "rate": 50
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "134",
+                    "rate": 50
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 30,
+            "twoOrderRate": 70,
+            "threeOrderRate": 0,
+            "mainRate": 30
+        },
+        {
+            "levelID": 16,
+            "starSet": 2,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 55,
+            "customerSpawnTime": 4,
+            "customerLimit": 0,
+            "customerCondition": 0,
+            "secondTarget": "Dish",
+            "coinCondition": 0,
+            "dishCondition": 21,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": true,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": true,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 25
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "13",
+                    "rate": 25
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "134",
+                    "rate": 25
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "1234",
+                    "rate": 25
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 10,
+            "twoOrderRate": 90,
+            "threeOrderRate": 0,
+            "mainRate": 80
+        },
+        {
+            "levelID": 17,
+            "starSet": 0,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 3,
+            "customerLimit": 15,
+            "customerCondition": 0,
+            "secondTarget": "Coin",
+            "coinCondition": 50,
+            "dishCondition": 20,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": true,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": true,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 25
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "14",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "1234",
+                    "rate": 30
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "134",
+                    "rate": 25
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 10,
+            "twoOrderRate": 90,
+            "threeOrderRate": 0,
+            "mainRate": 60
+        },
+        {
+            "levelID": 17,
+            "starSet": 1,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 3,
+            "customerLimit": 15,
+            "customerCondition": 0,
+            "secondTarget": "Coin",
+            "coinCondition": 55,
+            "dishCondition": 25,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": true,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": true,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "134",
+                    "rate": 30
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "1234",
+                    "rate": 30
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "13",
+                    "rate": 20
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 3,
+            "oneOrderRate": 10,
+            "twoOrderRate": 40,
+            "threeOrderRate": 50,
+            "mainRate": 40
+        },
+        {
+            "levelID": 17,
+            "starSet": 2,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Customer",
+            "missionTimeLimit": 0,
+            "customerSpawnTime": 3,
+            "customerLimit": 15,
+            "customerCondition": 0,
+            "secondTarget": "Coin",
+            "coinCondition": 65,
+            "dishCondition": 45,
+            "customerGoodCondition": 0,
+            "lostCutomerMission": true,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": true,
+            "allowTrashFood": 0,
+            "friedFoodMission": false,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "14",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "13",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "12",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "1234",
+                    "rate": 40
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 3,
+            "oneOrderRate": 0,
+            "twoOrderRate": 50,
+            "threeOrderRate": 50,
+            "mainRate": 70
+        },
+        {
+            "levelID": 18,
+            "starSet": 0,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 60,
+            "customerSpawnTime": 3,
+            "customerLimit": 15,
+            "customerCondition": 0,
+            "secondTarget": "Like",
+            "coinCondition": 0,
+            "dishCondition": 0,
+            "customerGoodCondition": 16,
+            "lostCutomerMission": true,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": true,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 10
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "1234",
+                    "rate": 30
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "124",
+                    "rate": 20
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "134",
+                    "rate": 20
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 2,
+            "oneOrderRate": 20,
+            "twoOrderRate": 80,
+            "threeOrderRate": 0,
+            "mainRate": 60
+        },
+        {
+            "levelID": 18,
+            "starSet": 1,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 60,
+            "customerSpawnTime": 3,
+            "customerLimit": 15,
+            "customerCondition": 0,
+            "secondTarget": "Like",
+            "coinCondition": 0,
+            "dishCondition": 0,
+            "customerGoodCondition": 18,
+            "lostCutomerMission": true,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": false,
+            "allowTrashFood": 0,
+            "friedFoodMission": true,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "1",
+                    "rate": 15
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 25
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "1234",
+                    "rate": 35
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "134",
+                    "rate": 25
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 3,
+            "oneOrderRate": 20,
+            "twoOrderRate": 40,
+            "threeOrderRate": 40,
+            "mainRate": 60
+        },
+        {
+            "levelID": 18,
+            "starSet": 2,
+            "hasCrystal": false,
+            "rewardCrystal": 5,
+            "firstTarget": "Time",
+            "missionTimeLimit": 60,
+            "customerSpawnTime": 3,
+            "customerLimit": 15,
+            "customerCondition": 0,
+            "secondTarget": "Like",
+            "coinCondition": 0,
+            "dishCondition": 0,
+            "customerGoodCondition": 19,
+            "lostCutomerMission": true,
+            "allowAngryCustomer": 0,
+            "foodToTrashMission": true,
+            "allowTrashFood": 0,
+            "friedFoodMission": true,
+            "allowFriedFood": 0,
+            "foodRates": [
+                {
+                    "foodType": "MainFood",
+                    "id": "123",
+                    "rate": 25
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "124",
+                    "rate": 25
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "1234",
+                    "rate": 25
+                },
+                {
+                    "foodType": "MainFood",
+                    "id": "134",
+                    "rate": 25
+                },
+                {
+                    "foodType": "SideFood",
+                    "id": "5",
+                    "rate": 100
+                }
+            ],
+            "orderSize": 3,
+            "oneOrderRate": 10,
+            "twoOrderRate": 45,
+            "threeOrderRate": 45,
+            "mainRate": 65
+        }
+    ]
+}

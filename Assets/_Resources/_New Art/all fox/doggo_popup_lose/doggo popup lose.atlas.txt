@@ -1,0 +1,111 @@
+
+doggo popup lose.png
+size: 1411,1116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beach hat
+  rotate: false
+  xy: 501, 487
+  size: 439, 260
+  orig: 439, 260
+  offset: 0, 0
+  index: -1
+bodyyy
+  rotate: false
+  xy: 810, 31
+  size: 214, 100
+  orig: 214, 100
+  offset: 0, 0
+  index: -1
+carft
+  rotate: true
+  xy: 1219, 212
+  size: 273, 161
+  orig: 273, 161
+  offset: 0, 0
+  index: -1
+chef hat
+  rotate: false
+  xy: 501, 749
+  size: 504, 365
+  orig: 504, 365
+  offset: 0, 0
+  index: -1
+cuin
+  rotate: true
+  xy: 810, 133
+  size: 352, 223
+  orig: 352, 223
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: false
+  xy: 942, 700
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+eyebrow2
+  rotate: false
+  xy: 1257, 614
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+faceeeee
+  rotate: true
+  xy: 1035, 213
+  size: 272, 182
+  orig: 272, 182
+  offset: 0, 0
+  index: -1
+feather
+  rotate: true
+  xy: 1035, 27
+  size: 184, 175
+  orig: 184, 175
+  offset: 0, 0
+  index: -1
+feather l
+  rotate: true
+  xy: 1212, 2
+  size: 208, 184
+  orig: 208, 184
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 942, 487
+  size: 174, 313
+  orig: 174, 313
+  offset: 0, 0
+  index: -1
+left ear
+  rotate: false
+  xy: 1007, 663
+  size: 402, 451
+  orig: 402, 451
+  offset: 0, 0
+  index: -1
+mushroom hat
+  rotate: true
+  xy: 2, 10
+  size: 513, 451
+  orig: 513, 451
+  offset: 0, 0
+  index: -1
+right ear
+  rotate: false
+  xy: 455, 51
+  size: 353, 434
+  orig: 353, 434
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 2, 525
+  size: 497, 589
+  orig: 497, 589
+  offset: 0, 0
+  index: -1

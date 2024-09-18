@@ -1,0 +1,13 @@
+
+map_tree 10.png
+size: 282,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tree 10
+  rotate: false
+  xy: 2, 2
+  size: 278, 304
+  orig: 278, 304
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,14 @@
+<document>
+    <string name="Loading...">Завантаження...</string>
+    <string name="Touch To Play ...">Доторкніться, щоб грати ...</string>
+    <string name="Upgrade">Покращення</string>
+    <string name="the number of stars you">кількість зірок, яку ви</string>
+    <string name="currently have">зараз маєте</string>
+    <string name="select worlds">вибрати світи</string>
+    <string name="you need">тобі потрібно</string>
+    <string name="stars to unlock this map">зірки для розблокування цієї карти</string>
+    <string name="Achievement">Досягнення</string>
+    <string name="Gold Collector">Колекціонер золота</string>
+    <string name="Collect">Збери </string>
+
+</document>

@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grill
+  - SideFoodPos
+  - SideFood
+  - Customer
+  - CustomerPositions
+  - CustomerManager
+  - GrillController
+  - PlayerStats
+  - CustomerLeavePos
+  - CustomerSpawnPos
+  - MissionManager
+  - FoodPlate
+  - SideFoodController
+  - TopBar
+  - GamePlayMenuManager
+  - NextScene
+  - Level
+  - Order
+  - MapManager
+  - MapController
+  - Combo
+  - AdManager
+  - FacebookManager
+  - FacebookAppEvents
+  - GoogleFireBaseEvents
+  - IAPManager
+  - Food
+  - FoodController
+  - SideGrill
+  - FirstFood
+  - ThirdFood
+  - SecondFood
+  - FoodOnGrill
+  - ItemManager
+  - FoodPlateController
+  - FoodManager
+  - SideFoodManager
+  - FoodBagManager
+  - LevelManager
+  - LevelController
+  - LevelDetail
+  - ProcessBar
+  - AchivementObject
+  - IAPBuyButton
+  - GoogleFireBaseRemote
+  - LevelSettingsDataManager
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Food
+  - WorldMap
+  - Effect
+  - Guide
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Customer
+    uniqueID: 2946541525
+    locked: 0
+  - name: Order
+    uniqueID: 2579269181
+    locked: 0
+  - name: Kitchen
+    uniqueID: 3168468301
+    locked: 0
+  - name: Grill
+    uniqueID: 2255472109
+    locked: 0
+  - name: Food
+    uniqueID: 2469875801
+    locked: 0
+  - name: TopBar
+    uniqueID: 435325903
+    locked: 0
+  - name: MapObject
+    uniqueID: 1968419355
+    locked: 0
+  - name: Level
+    uniqueID: 4103278609
+    locked: 0
+  - name: Effect
+    uniqueID: 4046333833
+    locked: 0
+  - name: BG
+    uniqueID: 923936065
+    locked: 0
+  - name: UI
+    uniqueID: 3453272517
+    locked: 0
+  - name: Guide
+    uniqueID: 1905336915
+    locked: 0

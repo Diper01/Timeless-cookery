@@ -1,0 +1,209 @@
+
+character_archer.png
+size: 339,2075
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: false
+  xy: 2, 279
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 204, 155
+  size: 130, 185
+  orig: 130, 185
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 481
+  size: 187, 236
+  orig: 187, 236
+  offset: 0, 0
+  index: -1
+cung
+  rotate: false
+  xy: 2, 1607
+  size: 333, 466
+  orig: 333, 466
+  offset: 0, 0
+  index: -1
+day ten
+  rotate: false
+  xy: 2, 1182
+  size: 312, 423
+  orig: 312, 423
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 316, 1348
+  size: 62, 17
+  orig: 62, 17
+  offset: 0, 0
+  index: -1
+eye 2
+  rotate: true
+  xy: 308, 1044
+  size: 68, 24
+  orig: 68, 24
+  offset: 0, 0
+  index: -1
+eye 3
+  rotate: true
+  xy: 316, 1219
+  size: 60, 13
+  orig: 60, 13
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 112
+  size: 165, 170
+  orig: 165, 170
+  offset: 0, 0
+  index: -1
+left hand 1
+  rotate: true
+  xy: 174, 46
+  size: 107, 146
+  orig: 107, 146
+  offset: 0, 0
+  index: -1
+left hand 2
+  rotate: false
+  xy: 265, 564
+  size: 55, 110
+  orig: 55, 110
+  offset: 0, 0
+  index: -1
+left hand 2 - Copy
+  rotate: false
+  xy: 267, 720
+  size: 55, 110
+  orig: 55, 110
+  offset: 0, 0
+  index: -1
+left hand 3
+  rotate: true
+  xy: 265, 676
+  size: 42, 71
+  orig: 42, 71
+  offset: 0, 0
+  index: -1
+lelft foot
+  rotate: true
+  xy: 2, 670
+  size: 130, 261
+  orig: 130, 261
+  offset: 0, 0
+  index: -1
+long may 1
+  rotate: true
+  xy: 308, 1114
+  size: 66, 25
+  orig: 66, 25
+  offset: 0, 0
+  index: -1
+long may 2
+  rotate: true
+  xy: 316, 1515
+  size: 66, 19
+  orig: 66, 19
+  offset: 0, 0
+  index: -1
+long may 3
+  rotate: true
+  xy: 316, 1412
+  size: 63, 17
+  orig: 63, 17
+  offset: 0, 0
+  index: -1
+mouth 1
+  rotate: true
+  xy: 316, 1477
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+mouth 2
+  rotate: true
+  xy: 316, 1281
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+mouth 3
+  rotate: true
+  xy: 240, 516
+  size: 46, 86
+  orig: 46, 86
+  offset: 0, 0
+  index: -1
+mouth 4
+  rotate: true
+  xy: 316, 1314
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+mouth 5
+  rotate: false
+  xy: 316, 1583
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+music
+  rotate: false
+  xy: 204, 342
+  size: 133, 125
+  orig: 133, 125
+  offset: 0, 0
+  index: -1
+right foot
+  rotate: true
+  xy: 2, 802
+  size: 139, 263
+  orig: 139, 263
+  offset: 0, 0
+  index: -1
+right hand 1
+  rotate: true
+  xy: 2, 3
+  size: 107, 146
+  orig: 107, 146
+  offset: 0, 0
+  index: -1
+right hand 2
+  rotate: false
+  xy: 267, 832
+  size: 63, 109
+  orig: 63, 109
+  offset: 0, 0
+  index: -1
+right hand 3
+  rotate: true
+  xy: 240, 469
+  size: 45, 74
+  orig: 45, 74
+  offset: 0, 0
+  index: -1
+ten
+  rotate: true
+  xy: 2, 943
+  size: 237, 304
+  orig: 237, 304
+  offset: 0, 0
+  index: -1
+vong co
+  rotate: false
+  xy: 150, 2
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1

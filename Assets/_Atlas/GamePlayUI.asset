@@ -1,0 +1,447 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125b9f6e6906d6e4897a443b3c12729c, type: 3}
+  m_Name: GamePlayUI
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: a956b47d7e9cbe946b20c7bc2706a308, type: 2}
+  mSprites:
+  - name: BoosterPlaceHolder
+    x: 748
+    y: 432
+    width: 84
+    height: 80
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  - name: ClockCookBG
+    x: 600
+    y: 357
+    width: 44
+    height: 44
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  - name: ClockCookBorder
+    x: 955
+    y: 452
+    width: 52
+    height: 60
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 2
+  - name: ClockCookFG
+    x: 690
+    y: 354
+    width: 41
+    height: 47
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  - name: ClockCookProgress
+    x: 645
+    y: 357
+    width: 44
+    height: 44
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  - name: ClockFireBG
+    x: 955
+    y: 362
+    width: 45
+    height: 45
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  - name: ClockFireBorder
+    x: 903
+    y: 453
+    width: 51
+    height: 59
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  - name: ClockFireFG
+    x: 732
+    y: 354
+    width: 41
+    height: 47
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  - name: ClockFireIcon
+    x: 1000
+    y: 322
+    width: 23
+    height: 39
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 2
+    paddingTop: 4
+    paddingBottom: 2
+  - name: ClockFireProgress
+    x: 903
+    y: 354
+    width: 45
+    height: 45
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  - name: ClosedButton
+    x: 462
+    y: 381
+    width: 91
+    height: 46
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 5
+  - name: Combo
+    x: 604
+    y: 432
+    width: 62
+    height: 19
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 3
+    paddingTop: 3
+    paddingBottom: 2
+  - name: ComboBG
+    x: 218
+    y: 409
+    width: 243
+    height: 18
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  - name: ComboEarn1
+    x: 893
+    y: 296
+    width: 43
+    height: 13
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  - name: ComboEarn2
+    x: 667
+    y: 438
+    width: 43
+    height: 13
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  - name: ComboPlaceholder
+    x: 893
+    y: 310
+    width: 43
+    height: 13
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  - name: ComboPlaceholder2
+    x: 937
+    y: 303
+    width: 43
+    height: 13
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  - name: ComboTimeBG
+    x: 863
+    y: 294
+    width: 29
+    height: 29
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  - name: ComboTimeProgress
+    x: 897
+    y: 324
+    width: 29
+    height: 29
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  - name: GreenInfoPlaceHolder
+    x: 604
+    y: 452
+    width: 143
+    height: 60
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  - name: icon_mission
+    x: 863
+    y: 324
+    width: 33
+    height: 33
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 3
+    paddingTop: 3
+    paddingBottom: 3
+  - name: IconCoin
+    x: 774
+    y: 357
+    width: 44
+    height: 44
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 2
+  - name: IconDish
+    x: 955
+    y: 408
+    width: 54
+    height: 43
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 2
+    paddingTop: 4
+    paddingBottom: 2
+  - name: IconLike
+    x: 774
+    y: 314
+    width: 43
+    height: 42
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 3
+    paddingTop: 3
+    paddingBottom: 2
+  - name: IconMissionAngry
+    x: 903
+    y: 400
+    width: 51
+    height: 52
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 2
+    paddingRight: 2
+    paddingTop: 4
+    paddingBottom: 2
+  - name: iconMissionBG
+    x: 826
+    y: 358
+    width: 76
+    height: 73
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  - name: IconMissionClocl
+    x: 819
+    y: 308
+    width: 43
+    height: 49
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 2
+    paddingRight: 2
+    paddingTop: 2
+    paddingBottom: 2
+  - name: IconMissionCustomer
+    x: 949
+    y: 317
+    width: 50
+    height: 44
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 3
+    paddingTop: 3
+    paddingBottom: 3
+  - name: iconMissionTrash
+    x: 554
+    y: 375
+    width: 45
+    height: 52
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 3
+    paddingTop: 4
+    paddingBottom: 2
+  - name: IconPause
+    x: 833
+    y: 443
+    width: 69
+    height: 69
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  - name: ProgressMissionBG
+    x: 604
+    y: 402
+    width: 221
+    height: 29
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 3
+    paddingTop: 3
+    paddingBottom: 3
+  - name: ProgressMissonBar
+    x: 0
+    y: 403
+    width: 217
+    height: 24
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  - name: TopBarBG
+    x: 0
+    y: 428
+    width: 603
+    height: 84
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 4
+    paddingBottom: 4
+  mPixelSize: 1
+  mReplacement: {fileID: 0}

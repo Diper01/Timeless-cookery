@@ -1,0 +1,27 @@
+
+pan.png
+size: 200,127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 0
+  rotate: false
+  xy: 2, 51
+  size: 155, 74
+  orig: 159, 78
+  offset: 2, 2
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 137, 47
+  orig: 158, 63
+  offset: 2, 2
+  index: -1
+cooking oil
+  rotate: true
+  xy: 159, 17
+  size: 108, 39
+  orig: 108, 39
+  offset: 0, 0
+  index: -1

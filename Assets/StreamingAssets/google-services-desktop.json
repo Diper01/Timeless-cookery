@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "654150000662",
+    "firebase_url": "https://tavern-cooking-27037990.firebaseio.com",
+    "project_id": "tavern-cooking-27037990",
+    "storage_bucket": "tavern-cooking-27037990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654150000662:android:9a41f15903efea43f15537",
+        "android_client_info": {
+          "package_name": "com.efox.taverncooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654150000662-ajgkjhjbk4llamubdbmkv9a94o81cp4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ-90TxiAkh0FVe36k_G7ehjyyGKNHhYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654150000662-ajgkjhjbk4llamubdbmkv9a94o81cp4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

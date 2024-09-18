@@ -1,0 +1,223 @@
+
+doggo with hat.png
+size: 1821,1148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 501, 560
+  size: 71, 194
+  orig: 71, 194
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 697, 568
+  size: 63, 176
+  orig: 63, 176
+  offset: 0, 0
+  index: -1
+angry
+  rotate: false
+  xy: 1378, 606
+  size: 169, 99
+  orig: 169, 99
+  offset: 0, 0
+  index: -1
+beach hat
+  rotate: true
+  xy: 1358, 707
+  size: 439, 260
+  orig: 439, 260
+  offset: 0, 0
+  index: -1
+carft
+  rotate: false
+  xy: 317, 25
+  size: 273, 161
+  orig: 273, 161
+  offset: 0, 0
+  index: -1
+chef hat
+  rotate: false
+  xy: 654, 193
+  size: 504, 365
+  orig: 504, 365
+  offset: 0, 0
+  index: -1
+cuin
+  rotate: true
+  xy: 1596, 201
+  size: 352, 223
+  orig: 352, 223
+  offset: 0, 0
+  index: -1
+diem sang 2
+  rotate: true
+  xy: 1703, 726
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+diem sang1
+  rotate: false
+  xy: 1620, 711
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+diem toi1
+  rotate: true
+  xy: 802, 2
+  size: 189, 188
+  orig: 189, 188
+  offset: 0, 0
+  index: -1
+diem toi2
+  rotate: false
+  xy: 1620, 796
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+disappointed
+  rotate: false
+  xy: 1549, 606
+  size: 169, 99
+  orig: 169, 99
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: true
+  xy: 954, 643
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+eyebrow2
+  rotate: true
+  xy: 1003, 643
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 188
+  size: 650, 367
+  orig: 650, 367
+  offset: 0, 0
+  index: -1
+feather
+  rotate: false
+  xy: 1620, 971
+  size: 184, 175
+  orig: 184, 175
+  offset: 0, 0
+  index: -1
+feather l
+  rotate: false
+  xy: 592, 2
+  size: 208, 184
+  orig: 208, 184
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 2, 12
+  size: 174, 313
+  orig: 174, 313
+  offset: 0, 0
+  index: -1
+left ear
+  rotate: false
+  xy: 954, 695
+  size: 402, 451
+  orig: 402, 451
+  offset: 0, 0
+  index: -1
+mi duoi
+  rotate: false
+  xy: 1035, 566
+  size: 170, 75
+  orig: 170, 75
+  offset: 0, 0
+  index: -1
+mi duoi1
+  rotate: false
+  xy: 875, 562
+  size: 158, 69
+  orig: 158, 69
+  offset: 0, 0
+  index: -1
+mi tren
+  rotate: true
+  xy: 1355, 26
+  size: 183, 148
+  orig: 183, 148
+  offset: 0, 0
+  index: -1
+mi tren1
+  rotate: true
+  xy: 1505, 27
+  size: 172, 143
+  orig: 172, 143
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1650, 102
+  size: 155, 97
+  orig: 155, 97
+  offset: 0, 0
+  index: -1
+mushroom hat
+  rotate: true
+  xy: 501, 633
+  size: 513, 451
+  orig: 513, 451
+  offset: 0, 0
+  index: -1
+normal
+  rotate: true
+  xy: 1720, 555
+  size: 169, 99
+  orig: 169, 99
+  offset: 0, 0
+  index: -1
+right ear
+  rotate: true
+  xy: 1160, 211
+  size: 353, 434
+  orig: 353, 434
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 1207, 581
+  size: 169, 112
+  orig: 169, 112
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 2, 557
+  size: 497, 589
+  orig: 497, 589
+  offset: 0, 0
+  index: -1
+vien mat phai
+  rotate: true
+  xy: 1181, 36
+  size: 173, 172
+  orig: 173, 172
+  offset: 0, 0
+  index: -1
+vien mat trai
+  rotate: true
+  xy: 992, 3
+  size: 188, 187
+  orig: 188, 187
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+map_tree 6.png
+size: 227,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tree 6
+  rotate: false
+  xy: 2, 2
+  size: 223, 326
+  orig: 223, 326
+  offset: 0, 0
+  index: -1

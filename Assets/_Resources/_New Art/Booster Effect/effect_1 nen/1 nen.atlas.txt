@@ -1,0 +1,83 @@
+
+1 nen.png
+size: 321,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 238, 103
+  size: 37, 64
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 304, 117
+  size: 23, 15
+  orig: 24, 17
+  offset: 1, 1
+  index: -1
+1candle
+  rotate: true
+  xy: 2, 2
+  size: 178, 190
+  orig: 231, 274
+  offset: 32, 41
+  index: -1
+2
+  rotate: false
+  xy: 279, 38
+  size: 36, 63
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 194, 61
+  size: 39, 83
+  orig: 39, 83
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 194, 102
+  size: 42, 78
+  orig: 42, 78
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 238, 142
+  size: 38, 81
+  orig: 38, 81
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 271, 13
+  size: 29, 23
+  orig: 31, 25
+  offset: 1, 1
+  index: -1
+7
+  rotate: true
+  xy: 241, 3
+  size: 24, 20
+  orig: 26, 22
+  offset: 1, 1
+  index: -1
+8
+  rotate: true
+  xy: 194, 28
+  size: 31, 45
+  orig: 33, 47
+  offset: 1, 1
+  index: -1
+9
+  rotate: false
+  xy: 241, 29
+  size: 28, 30
+  orig: 30, 32
+  offset: 1, 1
+  index: -1

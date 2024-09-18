@@ -1,0 +1,69 @@
+
+freeze + warning.png
+size: 6240,1134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Untitled-1
+  rotate: false
+  xy: 2, 69
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+frame1
+  rotate: false
+  xy: 1004, 2
+  size: 746, 1130
+  orig: 746, 1130
+  offset: 0, 0
+  index: -1
+frame2
+  rotate: false
+  xy: 1752, 2
+  size: 746, 1130
+  orig: 746, 1130
+  offset: 0, 0
+  index: -1
+frame3
+  rotate: false
+  xy: 2500, 2
+  size: 746, 1130
+  orig: 746, 1130
+  offset: 0, 0
+  index: -1
+frame4
+  rotate: false
+  xy: 3248, 2
+  size: 746, 1130
+  orig: 746, 1130
+  offset: 0, 0
+  index: -1
+frame5
+  rotate: false
+  xy: 3996, 2
+  size: 746, 1130
+  orig: 746, 1130
+  offset: 0, 0
+  index: -1
+frame6
+  rotate: false
+  xy: 4744, 2
+  size: 746, 1130
+  orig: 746, 1130
+  offset: 0, 0
+  index: -1
+frame7
+  rotate: false
+  xy: 5492, 2
+  size: 746, 1130
+  orig: 746, 1130
+  offset: 0, 0
+  index: -1
+order warning
+  rotate: false
+  xy: 2, 132
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1

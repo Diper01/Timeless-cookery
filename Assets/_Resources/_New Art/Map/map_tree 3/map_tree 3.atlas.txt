@@ -1,0 +1,13 @@
+
+map_tree 3.png
+size: 282,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tree 3
+  rotate: false
+  xy: 2, 2
+  size: 278, 289
+  orig: 278, 289
+  offset: 0, 0
+  index: -1

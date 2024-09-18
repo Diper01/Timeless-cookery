@@ -1,0 +1,20 @@
+
+map_flag.png
+size: 575,403
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 105
+  rotate: false
+  xy: 2, 2
+  size: 427, 399
+  orig: 427, 399
+  offset: 0, 0
+  index: -1
+Layer 106
+  rotate: true
+  xy: 431, 47
+  size: 354, 142
+  orig: 354, 142
+  offset: 0, 0
+  index: -1

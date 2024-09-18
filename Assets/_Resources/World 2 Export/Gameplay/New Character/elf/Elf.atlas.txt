@@ -1,0 +1,153 @@
+
+Elf.png
+size: 503,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Folder 10 2
+  rotate: true
+  xy: 302, 113
+  size: 154, 103
+  orig: 154, 103
+  offset: 0, 0
+  index: -1
+Folder 7 2
+  rotate: false
+  xy: 407, 191
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: -1
+Folder 8 2
+  rotate: true
+  xy: 461, 135
+  size: 54, 37
+  orig: 55, 40
+  offset: 1, 0
+  index: -1
+Layer 1 Copy
+  rotate: true
+  xy: 482, 208
+  size: 59, 15
+  orig: 59, 21
+  offset: 0, 5
+  index: -1
+Untitled-1
+  rotate: true
+  xy: 186, 77
+  size: 16, 19
+  orig: 21, 21
+  offset: 3, 1
+  index: -1
+angry
+  rotate: true
+  xy: 407, 133
+  size: 56, 52
+  orig: 70, 70
+  offset: 8, 7
+  index: -1
+body
+  rotate: false
+  xy: 186, 95
+  size: 114, 172
+  orig: 129, 175
+  offset: 0, 3
+  index: -1
+eye_left
+  rotate: false
+  xy: 323, 98
+  size: 19, 13
+  orig: 26, 14
+  offset: 1, 0
+  index: -1
+eye_left_close
+  rotate: false
+  xy: 134, 2
+  size: 13, 7
+  orig: 15, 9
+  offset: 2, 1
+  index: -1
+eye_right
+  rotate: false
+  xy: 472, 195
+  size: 29, 11
+  orig: 30, 13
+  offset: 0, 1
+  index: -1
+eye_right_close
+  rotate: false
+  xy: 111, 2
+  size: 21, 7
+  orig: 25, 8
+  offset: 1, 1
+  index: -1
+eyebrow_left
+  rotate: false
+  xy: 344, 103
+  size: 11, 8
+  orig: 13, 11
+  offset: 1, 0
+  index: -1
+eyebrow_right
+  rotate: true
+  xy: 313, 97
+  size: 14, 8
+  orig: 20, 9
+  offset: 4, 1
+  index: -1
+hand_left
+  rotate: true
+  xy: 111, 11
+  size: 63, 107
+  orig: 63, 107
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: true
+  xy: 2, 5
+  size: 69, 107
+  orig: 69, 107
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 360, 3
+  size: 120, 108
+  orig: 121, 108
+  offset: 1, 0
+  index: -1
+head_behind
+  rotate: true
+  xy: 2, 76
+  size: 191, 182
+  orig: 191, 182
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 220, 2
+  size: 91, 138
+  orig: 92, 139
+  offset: 1, 1
+  index: -1
+mouth_angry
+  rotate: true
+  xy: 207, 78
+  size: 15, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+mouth_normal
+  rotate: false
+  xy: 149, 5
+  size: 10, 4
+  orig: 11, 6
+  offset: 0, 1
+  index: -1
+mouth_smile
+  rotate: true
+  xy: 302, 95
+  size: 16, 9
+  orig: 16, 10
+  offset: 0, 0
+  index: -1

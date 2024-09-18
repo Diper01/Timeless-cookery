@@ -1,0 +1,20 @@
+
+map_river effect.png
+size: 160,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+w3
+  rotate: false
+  xy: 98, 2
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+w4
+  rotate: true
+  xy: 2, 19
+  size: 63, 94
+  orig: 63, 94
+  offset: 0, 0
+  index: -1

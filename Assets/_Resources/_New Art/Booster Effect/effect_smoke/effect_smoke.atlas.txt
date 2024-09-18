@@ -1,0 +1,13 @@
+
+effect_smoke.png
+size: 108,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+smk1
+  rotate: false
+  xy: 2, 2
+  size: 104, 134
+  orig: 198, 175
+  offset: 59, 28
+  index: -1

@@ -1,0 +1,216 @@
+
+doggo.png
+size: 1324,1150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 957, 218
+  size: 71, 194
+  orig: 71, 194
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 782, 58
+  size: 63, 176
+  orig: 63, 176
+  offset: 0, 0
+  index: -1
+angry
+  rotate: false
+  xy: 2, 5
+  size: 169, 99
+  orig: 169, 99
+  offset: 0, 0
+  index: -1
+behind leg
+  rotate: false
+  xy: 1098, 24
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1113, 472
+  size: 287, 171
+  orig: 287, 171
+  offset: 0, 0
+  index: -1
+carft
+  rotate: true
+  xy: 1153, 875
+  size: 273, 161
+  orig: 273, 161
+  offset: 0, 0
+  index: -1
+diem sang 2
+  rotate: true
+  xy: 1174, 29
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+diem sang1
+  rotate: false
+  xy: 1194, 111
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+diem toi1
+  rotate: false
+  xy: 616, 236
+  size: 189, 188
+  orig: 189, 188
+  offset: 0, 0
+  index: -1
+diem toi2
+  rotate: false
+  xy: 957, 291
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+disappointed
+  rotate: false
+  xy: 173, 5
+  size: 169, 99
+  orig: 169, 99
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: false
+  xy: 344, 57
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+eyebrow2
+  rotate: false
+  xy: 344, 8
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 501, 781
+  size: 650, 367
+  orig: 650, 367
+  offset: 0, 0
+  index: -1
+feather
+  rotate: false
+  xy: 596, 59
+  size: 184, 175
+  orig: 184, 175
+  offset: 0, 0
+  index: -1
+feather l
+  rotate: false
+  xy: 406, 240
+  size: 208, 184
+  orig: 208, 184
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 937, 466
+  size: 174, 313
+  orig: 174, 313
+  offset: 0, 0
+  index: -1
+left ear
+  rotate: false
+  xy: 2, 106
+  size: 402, 451
+  orig: 402, 451
+  offset: 0, 0
+  index: -1
+left leg
+  rotate: false
+  xy: 1098, 99
+  size: 94, 95
+  orig: 94, 95
+  offset: 0, 0
+  index: -1
+mi duoi
+  rotate: true
+  xy: 847, 69
+  size: 170, 75
+  orig: 170, 75
+  offset: 0, 0
+  index: -1
+mi duoi1
+  rotate: false
+  xy: 924, 2
+  size: 158, 69
+  orig: 158, 69
+  offset: 0, 0
+  index: -1
+mi tren
+  rotate: true
+  xy: 807, 241
+  size: 183, 148
+  orig: 183, 148
+  offset: 0, 0
+  index: -1
+mi tren1
+  rotate: false
+  xy: 924, 73
+  size: 172, 143
+  orig: 172, 143
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 1153, 196
+  size: 169, 99
+  orig: 169, 99
+  offset: 0, 0
+  index: -1
+right ear
+  rotate: true
+  xy: 501, 426
+  size: 353, 434
+  orig: 353, 434
+  offset: 0, 0
+  index: -1
+right leg
+  rotate: false
+  xy: 406, 459
+  size: 82, 98
+  orig: 82, 98
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 1153, 761
+  size: 169, 112
+  orig: 169, 112
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 2, 559
+  size: 497, 589
+  orig: 497, 589
+  offset: 0, 0
+  index: -1
+vien mat phai
+  rotate: true
+  xy: 1132, 297
+  size: 173, 172
+  orig: 173, 172
+  offset: 0, 0
+  index: -1
+vien mat trai
+  rotate: false
+  xy: 406, 51
+  size: 188, 187
+  orig: 188, 187
+  offset: 0, 0
+  index: -1

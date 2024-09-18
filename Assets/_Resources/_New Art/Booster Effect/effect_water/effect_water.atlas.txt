@@ -1,0 +1,20 @@
+
+effect_water.png
+size: 535,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 341, 68
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+water
+  rotate: true
+  xy: 2, 2
+  size: 258, 337
+  orig: 258, 337
+  offset: 0, 0
+  index: -1

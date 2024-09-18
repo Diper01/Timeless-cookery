@@ -1,0 +1,13 @@
+
+map_chicken.png
+size: 210,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+map_chicken
+  rotate: false
+  xy: 2, 2
+  size: 206, 160
+  orig: 206, 160
+  offset: 0, 0
+  index: -1

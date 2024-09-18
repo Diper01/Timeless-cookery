@@ -1,0 +1,13 @@
+
+map_tree 4.png
+size: 281,407
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tree 4
+  rotate: false
+  xy: 2, 2
+  size: 277, 403
+  orig: 277, 403
+  offset: 0, 0
+  index: -1

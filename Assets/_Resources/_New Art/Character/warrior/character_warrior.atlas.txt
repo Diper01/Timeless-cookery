@@ -1,0 +1,174 @@
+
+character_warrior.png
+size: 351,1058
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Folder 12
+  rotate: true
+  xy: 204, 90
+  size: 79, 32
+  orig: 79, 32
+  offset: 0, 0
+  index: -1
+Folder 12 - Copy
+  rotate: false
+  xy: 267, 163
+  size: 79, 32
+  orig: 79, 32
+  offset: 0, 0
+  index: -1
+angry
+  rotate: false
+  xy: 2, 18
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+belt
+  rotate: true
+  xy: 292, 742
+  size: 105, 49
+  orig: 105, 49
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 86, 549
+  size: 140, 164
+  orig: 140, 164
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 849
+  size: 346, 207
+  orig: 346, 207
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 86, 420
+  size: 150, 127
+  orig: 150, 127
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 86, 691
+  size: 204, 156
+  orig: 204, 156
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 238, 420
+  size: 127, 95
+  orig: 127, 95
+  offset: 0, 0
+  index: -1
+lancer
+  rotate: false
+  xy: 2, 220
+  size: 82, 627
+  orig: 82, 627
+  offset: 0, 0
+  index: -1
+left foot 1
+  rotate: true
+  xy: 185, 315
+  size: 103, 158
+  orig: 103, 158
+  offset: 0, 0
+  index: -1
+left hand 1
+  rotate: true
+  xy: 252, 619
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+left hand 2
+  rotate: true
+  xy: 267, 197
+  size: 47, 79
+  orig: 47, 79
+  offset: 0, 0
+  index: -1
+left hand 3
+  rotate: true
+  xy: 292, 692
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 130, 229
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 86, 223
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: true
+  xy: 199, 238
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+mouth4
+  rotate: false
+  xy: 168, 227
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+pant
+  rotate: true
+  xy: 86, 247
+  size: 171, 97
+  orig: 171, 97
+  offset: 0, 0
+  index: -1
+right foot 1
+  rotate: false
+  xy: 238, 2
+  size: 96, 159
+  orig: 96, 159
+  offset: 0, 0
+  index: -1
+right hand 1
+  rotate: true
+  xy: 185, 252
+  size: 61, 85
+  orig: 61, 85
+  offset: 0, 0
+  index: -1
+right hand 2
+  rotate: true
+  xy: 252, 553
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+right hand 3
+  rotate: true
+  xy: 211, 171
+  size: 79, 54
+  orig: 79, 54
+  offset: 0, 0
+  index: -1
+right hand 4
+  rotate: true
+  xy: 272, 246
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1

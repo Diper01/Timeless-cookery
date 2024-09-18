@@ -1,0 +1,209 @@
+
+character_tank.png
+size: 2638,629
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry
+  rotate: true
+  xy: 795, 3
+  size: 624, 625
+  orig: 624, 625
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 2, 17
+  size: 791, 610
+  orig: 791, 610
+  offset: 0, 0
+  index: -1
+belt2
+  rotate: false
+  xy: 1767, 55
+  size: 342, 150
+  orig: 342, 150
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1767, 385
+  size: 376, 242
+  orig: 376, 242
+  offset: 0, 0
+  index: -1
+body cat
+  rotate: false
+  xy: 2344, 200
+  size: 96, 99
+  orig: 96, 99
+  offset: 0, 0
+  index: -1
+cat eye
+  rotate: true
+  xy: 2111, 169
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+cat tail
+  rotate: false
+  xy: 2470, 51
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 1760, 26
+  size: 75, 27
+  orig: 75, 27
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 2355, 11
+  size: 75, 28
+  orig: 75, 28
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: true
+  xy: 2316, 215
+  size: 68, 24
+  orig: 68, 24
+  offset: 0, 0
+  index: -1
+hammer
+  rotate: false
+  xy: 2145, 430
+  size: 307, 197
+  orig: 307, 197
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2454, 408
+  size: 219, 182
+  orig: 219, 182
+  offset: 0, 0
+  index: -1
+left foot
+  rotate: false
+  xy: 2111, 28
+  size: 159, 125
+  orig: 159, 125
+  offset: 0, 0
+  index: -1
+left hand
+  rotate: true
+  xy: 1767, 207
+  size: 176, 362
+  orig: 176, 362
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1957, 23
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 1901, 28
+  size: 54, 25
+  orig: 54, 25
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 2272, 2
+  size: 81, 37
+  orig: 81, 37
+  offset: 0, 0
+  index: -1
+mouth4
+  rotate: false
+  xy: 1837, 14
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 2442, 123
+  size: 159, 114
+  orig: 159, 114
+  offset: 0, 0
+  index: -1
+pant 2
+  rotate: false
+  xy: 2442, 239
+  size: 176, 167
+  orig: 176, 167
+  offset: 0, 0
+  index: -1
+pant3
+  rotate: false
+  xy: 1422, 2
+  size: 336, 199
+  orig: 336, 199
+  offset: 0, 0
+  index: -1
+right finger
+  rotate: true
+  xy: 2272, 41
+  size: 112, 107
+  orig: 112, 107
+  offset: 0, 0
+  index: -1
+right foot
+  rotate: false
+  xy: 2131, 155
+  size: 183, 128
+  orig: 183, 128
+  offset: 0, 0
+  index: -1
+right hand 1
+  rotate: true
+  xy: 2145, 285
+  size: 143, 197
+  orig: 143, 197
+  offset: 0, 0
+  index: -1
+right hand 2
+  rotate: false
+  xy: 2344, 301
+  size: 96, 127
+  orig: 96, 127
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2381, 41
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+shirt
+  rotate: false
+  xy: 1422, 203
+  size: 343, 424
+  orig: 343, 424
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 2539, 52
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1
+twinke
+  rotate: true
+  xy: 2005, 26
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1

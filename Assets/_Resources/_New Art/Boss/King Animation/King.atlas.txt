@@ -1,0 +1,153 @@
+
+King.png
+size: 1361,471
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Angry eye
+  rotate: true
+  xy: 1282, 376
+  size: 93, 37
+  orig: 95, 39
+  offset: 1, 1
+  index: -1
+Arm 1
+  rotate: false
+  xy: 1068, 195
+  size: 168, 147
+  orig: 168, 147
+  offset: 0, 0
+  index: -1
+Arm 2
+  rotate: false
+  xy: 864, 71
+  size: 176, 150
+  orig: 176, 150
+  offset: 0, 0
+  index: -1
+Beard
+  rotate: true
+  xy: 1238, 205
+  size: 137, 121
+  orig: 139, 123
+  offset: 1, 1
+  index: -1
+Body
+  rotate: false
+  xy: 2, 2
+  size: 771, 467
+  orig: 771, 467
+  offset: 0, 0
+  index: -1
+Close eye
+  rotate: false
+  xy: 997, 22
+  size: 93, 33
+  orig: 95, 35
+  offset: 1, 1
+  index: -1
+Crown
+  rotate: false
+  xy: 1245, 97
+  size: 110, 106
+  orig: 112, 108
+  offset: 1, 1
+  index: -1
+Fur coat
+  rotate: false
+  xy: 864, 22
+  size: 131, 47
+  orig: 450, 51
+  offset: 1, 3
+  index: -1
+Fur coat2
+  rotate: true
+  xy: 1196, 62
+  size: 131, 47
+  orig: 450, 51
+  offset: 318, 1
+  index: -1
+Hair
+  rotate: false
+  xy: 881, 350
+  size: 212, 119
+  orig: 212, 119
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1042, 57
+  size: 136, 152
+  orig: 138, 154
+  offset: 1, 1
+  index: -1
+Inner coat
+  rotate: false
+  xy: 775, 240
+  size: 104, 229
+  orig: 378, 229
+  offset: 0, 0
+  index: -1
+Inner coat2
+  rotate: false
+  xy: 775, 29
+  size: 87, 209
+  orig: 378, 229
+  offset: 290, 19
+  index: -1
+Leg
+  rotate: true
+  xy: 1095, 344
+  size: 125, 185
+  orig: 127, 187
+  offset: 1, 1
+  index: -1
+Leg 2
+  rotate: true
+  xy: 881, 223
+  size: 125, 185
+  orig: 127, 187
+  offset: 1, 1
+  index: -1
+Love
+  rotate: false
+  xy: 775, 13
+  size: 66, 14
+  orig: 68, 16
+  offset: 1, 1
+  index: -1
+Mustache
+  rotate: false
+  xy: 1092, 30
+  size: 97, 25
+  orig: 195, 25
+  offset: 0, 0
+  index: -1
+Mustache2
+  rotate: false
+  xy: 1092, 3
+  size: 97, 25
+  orig: 195, 25
+  offset: 98, 0
+  index: -1
+Open eye
+  rotate: true
+  xy: 1321, 376
+  size: 93, 37
+  orig: 95, 39
+  offset: 1, 1
+  index: -1
+angry
+  rotate: false
+  xy: 1245, 3
+  size: 99, 92
+  orig: 124, 124
+  offset: 14, 13
+  index: -1
+smoke
+  rotate: false
+  xy: 1196, 22
+  size: 41, 38
+  orig: 43, 40
+  offset: 1, 1
+  index: -1

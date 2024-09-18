@@ -1,0 +1,34 @@
+
+effect_x2coin.png
+size: 594,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 358, 2
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Untitled-1
+  rotate: false
+  xy: 2, 5
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+bag
+  rotate: true
+  xy: 2, 68
+  size: 386, 354
+  orig: 386, 354
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 358, 196
+  size: 234, 258
+  orig: 234, 258
+  offset: 0, 0
+  index: -1

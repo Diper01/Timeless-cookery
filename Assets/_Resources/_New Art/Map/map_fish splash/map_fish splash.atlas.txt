@@ -1,0 +1,97 @@
+
+map_fish splash.png
+size: 197,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 4
+  size: 35, 6
+  orig: 61, 51
+  offset: 8, 3
+  index: -1
+10
+  rotate: false
+  xy: 137, 97
+  size: 28, 43
+  orig: 61, 51
+  offset: 15, 4
+  index: -1
+11
+  rotate: false
+  xy: 167, 111
+  size: 21, 29
+  orig: 61, 51
+  offset: 19, 4
+  index: -1
+2
+  rotate: true
+  xy: 91, 41
+  size: 48, 25
+  orig: 61, 51
+  offset: 6, 2
+  index: -1
+3
+  rotate: false
+  xy: 134, 3
+  size: 40, 38
+  orig: 61, 51
+  offset: 10, 2
+  index: -1
+4
+  rotate: true
+  xy: 91, 2
+  size: 37, 41
+  orig: 61, 51
+  offset: 10, 2
+  index: -1
+5
+  rotate: false
+  xy: 159, 55
+  size: 36, 40
+  orig: 61, 51
+  offset: 11, 4
+  index: -1
+6
+  rotate: true
+  xy: 2, 12
+  size: 56, 41
+  orig: 61, 51
+  offset: 3, 4
+  index: -1
+7
+  rotate: true
+  xy: 45, 13
+  size: 55, 44
+  orig: 61, 51
+  offset: 4, 4
+  index: -1
+8
+  rotate: true
+  xy: 90, 91
+  size: 49, 45
+  orig: 61, 51
+  offset: 6, 4
+  index: -1
+9
+  rotate: false
+  xy: 118, 43
+  size: 39, 46
+  orig: 61, 51
+  offset: 11, 3
+  index: -1
+fish
+  rotate: false
+  xy: 2, 70
+  size: 42, 70
+  orig: 80, 80
+  offset: 13, 3
+  index: -1
+fish2
+  rotate: false
+  xy: 46, 70
+  size: 42, 70
+  orig: 80, 80
+  offset: 13, 3
+  index: -1

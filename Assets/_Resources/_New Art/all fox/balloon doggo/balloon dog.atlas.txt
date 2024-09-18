@@ -1,0 +1,258 @@
+
+balloon dog.png
+size: 3543,1147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 2037, 139
+  size: 71, 194
+  orig: 71, 194
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 2233, 147
+  size: 63, 176
+  orig: 63, 176
+  offset: 0, 0
+  index: -1
+angry
+  rotate: false
+  xy: 1916, 25
+  size: 169, 99
+  orig: 169, 99
+  offset: 0, 0
+  index: -1
+beach hat
+  rotate: false
+  xy: 1596, 126
+  size: 439, 260
+  orig: 439, 260
+  offset: 0, 0
+  index: -1
+body 3
+  rotate: false
+  xy: 1767, 10
+  size: 147, 114
+  orig: 147, 114
+  offset: 0, 0
+  index: -1
+carft
+  rotate: false
+  xy: 2352, 225
+  size: 273, 161
+  orig: 273, 161
+  offset: 0, 0
+  index: -1
+chef hat
+  rotate: false
+  xy: 654, 13
+  size: 504, 365
+  orig: 504, 365
+  offset: 0, 0
+  index: -1
+day thung
+  rotate: true
+  xy: 2087, 6
+  size: 131, 383
+  orig: 131, 383
+  offset: 0, 0
+  index: -1
+diem sang 2
+  rotate: true
+  xy: 2743, 156
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+diem sang1
+  rotate: false
+  xy: 2933, 471
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+diem toi1
+  rotate: false
+  xy: 3276, 553
+  size: 189, 188
+  orig: 189, 188
+  offset: 0, 0
+  index: -1
+diem toi2
+  rotate: false
+  xy: 3346, 189
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+disappointed
+  rotate: false
+  xy: 2591, 455
+  size: 169, 99
+  orig: 169, 99
+  offset: 0, 0
+  index: -1
+effect pop 1
+  rotate: true
+  xy: 2078, 388
+  size: 757, 511
+  orig: 757, 511
+  offset: 0, 0
+  index: -1
+effect pop 2
+  rotate: true
+  xy: 1565, 388
+  size: 757, 511
+  orig: 757, 511
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: true
+  xy: 2591, 403
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+eyebrow2
+  rotate: true
+  xy: 2640, 403
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 11
+  size: 650, 367
+  orig: 650, 367
+  offset: 0, 0
+  index: -1
+feather
+  rotate: false
+  xy: 2627, 226
+  size: 184, 175
+  orig: 184, 175
+  offset: 0, 0
+  index: -1
+feather l
+  rotate: true
+  xy: 3090, 533
+  size: 208, 184
+  orig: 208, 184
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 2037, 212
+  size: 174, 313
+  orig: 174, 313
+  offset: 0, 0
+  index: -1
+left ear
+  rotate: true
+  xy: 3090, 743
+  size: 402, 451
+  orig: 402, 451
+  offset: 0, 0
+  index: -1
+mi duoi
+  rotate: false
+  xy: 2411, 148
+  size: 170, 75
+  orig: 170, 75
+  offset: 0, 0
+  index: -1
+mi duoi1
+  rotate: false
+  xy: 2583, 154
+  size: 158, 69
+  orig: 158, 69
+  offset: 0, 0
+  index: -1
+mi tren
+  rotate: false
+  xy: 2646, 4
+  size: 183, 148
+  orig: 183, 148
+  offset: 0, 0
+  index: -1
+mi tren1
+  rotate: false
+  xy: 2472, 3
+  size: 172, 143
+  orig: 172, 143
+  offset: 0, 0
+  index: -1
+mushroom hat
+  rotate: false
+  xy: 2831, 2
+  size: 513, 451
+  orig: 513, 451
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 2762, 455
+  size: 169, 99
+  orig: 169, 99
+  offset: 0, 0
+  index: -1
+pop1
+  rotate: true
+  xy: 2, 380
+  size: 765, 519
+  orig: 765, 519
+  offset: 0, 0
+  index: -1
+pop2
+  rotate: true
+  xy: 523, 380
+  size: 765, 519
+  orig: 765, 519
+  offset: 0, 0
+  index: -1
+pop3
+  rotate: true
+  xy: 1044, 380
+  size: 765, 519
+  orig: 765, 519
+  offset: 0, 0
+  index: -1
+right ear
+  rotate: true
+  xy: 1160, 25
+  size: 353, 434
+  orig: 353, 434
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 1596, 12
+  size: 169, 112
+  orig: 169, 112
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 2591, 556
+  size: 497, 589
+  orig: 497, 589
+  offset: 0, 0
+  index: -1
+vien mat phai
+  rotate: true
+  xy: 3346, 14
+  size: 173, 172
+  orig: 173, 172
+  offset: 0, 0
+  index: -1
+vien mat trai
+  rotate: false
+  xy: 3346, 364
+  size: 188, 187
+  orig: 188, 187
+  offset: 0, 0
+  index: -1
